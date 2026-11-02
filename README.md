@@ -3,14 +3,9 @@
 <h1 align="centre">Just an ambitient student</h1>
 <h2 align="centre">Languages: Russian (native language), English (C1)</h2>
 
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/MAM0R/MAM0R/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img width="240" height="240" alt="cat-ai-pufferfish-cat" src="https://github.com/user-attachments/assets/23ba9fad-438c-4aa9-b70f-a82c541a062c" />
+</p>
 
 <br clear="both">
 
