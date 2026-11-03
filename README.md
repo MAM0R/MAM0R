@@ -1,6 +1,6 @@
 
 
-<h1 align="centre">Just an ambitient student</h1>
+<h1 align="centre">Just an overly ambitious student</h1>
 <h2 align="centre">Languages: Russian (native language), English (C1)</h2>
 
 <p align="center">
